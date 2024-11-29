@@ -8,6 +8,11 @@
 
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css') ?>" />
+    <style>
+		.identity {
+			font-size: 3em;
+		}
+	</style>
 </head>
 
 <body>
